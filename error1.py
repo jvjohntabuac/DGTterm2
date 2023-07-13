@@ -10,13 +10,11 @@ def delivery():
 
     print("Please enter delivery information")
 
-    # Rest of the code...
 
 def main():
     welcome()
     print("Press 1 for delivery or 2 for click and collect")
-    
-    # Rest of the code...
+
 
 main()
 

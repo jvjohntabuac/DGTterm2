@@ -10,3 +10,4 @@ def welcome_greeting():
 
 welcome_greeting()
 
+#I made it more unioque according on my taste and preference and for this i will do it on my other codes as well
