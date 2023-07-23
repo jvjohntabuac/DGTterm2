@@ -115,16 +115,20 @@ def menu(delivery_option):
     for drink_ordered, quantity in order_list:
         print(f"{quantity} {drink_ordered}")
 
-    print("Total price: $", "{:.2f}".format(total_price))
+    print("Total price: $", "{:.2f}".format(total_price)) #For the total price 
 
     if delivery_option == 'delivery' and num_drinks >= 4:
         print("Congratulations! You qualify for free delivery!")
-#Continued codes
+#Continued...
 def main():
     welcome()
     delivery_option = delivery_or_click_collect()#To pin point the code and without these the function wont work.
     menu(delivery_option)
 
-    #Rest of code.../
+    #Rest of code...
+    #Cancelation of order or confirming
+    #Sum up the customer's order and details 
+    
 
 main()
+#panner(i can make a 25%chance that the user can get one free drink of the product if they get a certain name)i will name this "sponsership"

@@ -8,5 +8,5 @@ def welcome_ver1():
     print("*** I will be here to help with your order ***")
 
 welcome_ver1()
-#ver1 of the welcome code and it chooses a name succesfuly 
-#i'd say it's fuctionable however it's rather too simple and bland to pass my expectation
+#ver1 
+#Rest of code...
