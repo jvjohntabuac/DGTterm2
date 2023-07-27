@@ -149,7 +149,6 @@ def main():
             print("\nOrder processing...")
 
             # Additional code for order processing goes here
-            # ... (existing code remains the same)
 
             print("\n*** Customer Details ***")
             print("Delivery Option:", delivery_option.capitalize())
@@ -161,6 +160,8 @@ def main():
             print("\n*** Order Summary ***")
 
             # ... (existing code remains the same)
+            #... existing code=time of collect from click and collect v4-v5
+            #... existing code=order Number and put print order number from click and collect version 4-5 if needed else=none
         else:
             print("\nThank you for visiting Anime Maid Café. Have a great day!")
     else:
